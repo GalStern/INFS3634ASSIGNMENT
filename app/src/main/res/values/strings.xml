@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">INFS3634 ASSIGNMENT</string>
+    <string name="welcome">Welcome to Know It All</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
