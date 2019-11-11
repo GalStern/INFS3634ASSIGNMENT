@@ -4,4 +4,59 @@
     <string name="title_activity_intro">IntroActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="flashcards">
+        <br>
+        Flashcards \n
+        </br>
+    </string>
+
+    <string name = "quiz">
+        <br>
+            Quiz \n
+        </br>
+    </string>
+
+    <string name = "videos">
+        <br>
+            Videos \n
+        </br>
+    </string>
+
+    <string name="home">
+        <br>
+        Home \n
+        </br>
+    </string>
+
+    <string name = "leaderboard">
+        <br>
+            Leaderboard \n
+        </br>
+    </string>
+
+    <string name = "profile">
+        <br>
+            Profile \n
+        </br>
+    </string>
+
+    <string name="flashcardText">
+        <br>
+        Learn about ... \n
+        </br>
+    </string>
+
+    <string name = "quizText">
+        <br>
+            Test your knowledge! \n
+        </br>
+    </string>
+
+    <string name = "videoText">
+        <br>
+            Get involved with organisations \n
+        </br>
+    </string>
+
 </resources>
